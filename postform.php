@@ -1,3 +1,4 @@
+<?php include_once("index.html"); ?>
 <?php 
 # Include script to make a database connection
 include("connect.php");
